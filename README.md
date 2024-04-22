@@ -34,9 +34,10 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
+### Truthtable
+![image](https://github.com/jeffybrailin/HALF_ADDER_SUBTRACTOR/assets/146911326/07aee5d7-3a1b-4f4c-aa30-01a6f535b3fc)
 
-**Procedure**
+### Procedure
 
 1.	Type the program in Quartus software.
 
